@@ -37,21 +37,21 @@ const questions = [
         name: "installation",
         message: "How to install dependencies?"
     },
-    {
+    /* {
         type: "input",
         name: "tests",
         message: "what command should be run for testing?"
-    },
+    }, */
     {
         type: "input",
         name: "usage",
         message: "what do I need to know about using the repo?"
     },
-    {
+    /* {
         type: "input",
         name: "contributing",
         message: "what do I need to know about contributing to the repo?"
-    },
+    }, */
 ];
 
 // TODO: Create a function to write README file

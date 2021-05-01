@@ -1,4 +1,4 @@
-# Online/Offline Budget Tracker
+# Online-Offline Budget Tracker
 
   ## Description
    This application allows a user to track income and expenses in a simple interface both on and offline
@@ -15,19 +15,19 @@
 
 
   ## Installation
-  See deployed app on heroku https://stark-tor-23631.herokuapp.com/  
+  npm i  
 
   ## Usage
-  n/a
+  See deployed applicatoin on heroku https://stark-tor-23631.herokuapp.com/
 
   ## License
   MIT
 
   ## Contributing
-  n/a
+  undefined
 
   ## Tests
-  n/a
+  undefined
 
   ## Questions
  
