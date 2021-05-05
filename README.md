@@ -1,7 +1,7 @@
 # Online-Offline Budget Tracker
 
   ## Description
-   This application allows a user to track income and expenses in a simple interface both on and offline
+   This application is a simple budget tracker that has PWA capabilities and will also save data. Even if the application is not connected to a network (offline). When the application is connected to the network again the data will move into our MongoDB to be saved for later use.
 
   ## Table of Contents
    [Description](#description)
@@ -15,10 +15,10 @@
 
 
   ## Installation
-  npm i  
+  npm i to install all packages within the package.json file  
 
   ## Usage
-  See deployed applicatoin on heroku https://stark-tor-23631.herokuapp.com/
+  Make sure to have all dependencies installed
 
   ## License
   MIT
