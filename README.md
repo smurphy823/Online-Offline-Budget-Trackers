@@ -1,7 +1,7 @@
-# Online-Offline Budget Tracker
+# Online/Offline Budget Tracker
 
   ## Description
-   This application is a simple budget tracker that has PWA capabilities and will also save data. Even if the application is not connected to a network (offline). When the application is connected to the network again the data will move into our MongoDB to be saved for later use.
+    This application is a simple budget tracker that has PWA capabilities and will also save data. Even if the application is not connected to a network (offline). When the application is connected to the network again the data will move into our MongoDB to be saved for later use.
 
   ## Table of Contents
    [Description](#description)
@@ -15,10 +15,10 @@
 
 
   ## Installation
-  npm i to install all packages within the package.json file  
+  npm install  
 
   ## Usage
-  Make sure to have all dependencies installed
+  Make sure to have all dependencies installed within the package.json file
 
   ## License
   MIT
